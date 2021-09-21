@@ -1,4 +1,4 @@
-# Regression Machine Learning models
+#  Machine Learning Regression models
 
 ## Demo app
 
